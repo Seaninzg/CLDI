@@ -16,7 +16,7 @@ This project includes:
 
 📄 Zenodo: doi.org/10.5281/zenodo.18213042
 
-📦 IPFS Mirror: View via Pinata
+📦 IPFS Mirror: https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreiem6tbairhxrnddaikkrlam2rtgszsydkutckarxsqyp534vqlkbi
 
 🧭 Use Cases
 
